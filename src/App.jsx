@@ -22,6 +22,7 @@ function App() {
           count is {count}
         </button>
         <p>
+          THIS IS GIT ACTION EXPERIMENT
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
       </div>
