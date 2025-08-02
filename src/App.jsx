@@ -23,7 +23,6 @@ function App() {
         </button>
         <p>
           THIS IS GIT ACTION EXPERIMENT
-          Edit <code>src/App.jsx</code> and save to test HMR
         </p>
       </div>
       <p className="read-the-docs">
